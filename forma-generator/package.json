@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "forma-embedded-view-sdk": "^0.16.1",
+    "geometry-extrude": "^0.2.1",
+    "https": "^1.0.0",
+    "lodash": "^4.17.21",
+    "node": "^21.0.0",
+    "node-fetch": "^3.3.2",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.5"
+  }
+}
